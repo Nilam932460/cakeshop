@@ -1,0 +1,29 @@
+/*
+Element selctor
+p{
+ property:value;
+}
+*/
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(164, 197, 35);
+
+    
+}
+
+h2{
+color: rgb(214, 226, 43);
+}
+
+/* id is unique within the page */
+#p2{
+    color: rgb(29, 192, 151);
+}
+
+/*class*/
+.prod{
+    color: rgb(83, 169, 128);
+
+}
